@@ -57,4 +57,3 @@ match OverLength /\%81v.\+/
 nnoremap <F2> :GundoToggle<CR>
 
 au BufRead *.py map <buffer> <F7> :w<CR>:!/usr/bin/env python % <CR>
-
